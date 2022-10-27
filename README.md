@@ -1,5 +1,5 @@
 
-# redisclustercompose
+# [redis-cluster-compose](https://get-reddie.com/blog/redis4-cluster-docker-compose/)
 
 Redis Cluster via Docker Compose with --scale capability using Redis 4's new NAT/port-forwarding support. 
 Reddie is included so you can check out your new cluster!
@@ -27,4 +27,4 @@ It takes a little while.
 
 Navigate to `https://localhost` to access Reddie.
 
-# [설명](https://get-reddie.com/blog/redis4-cluster-docker-compose/)
+
