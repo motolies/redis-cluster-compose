@@ -26,3 +26,5 @@ It takes a little while.
 **Using Reddie**
 
 Navigate to `https://localhost` to access Reddie.
+
+# [설명](https://get-reddie.com/blog/redis4-cluster-docker-compose/)
